@@ -1,4 +1,4 @@
-# `@ds-plugins/dsh-scheduling-contracts`
+# `@han_05/dsh-scheduling-contracts`
 
 Versioned scheduling contracts shared by the optional DSH scheduler and
 orchestrator plugins.

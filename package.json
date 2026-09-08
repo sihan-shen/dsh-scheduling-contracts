@@ -1,5 +1,5 @@
 {
-  "name": "@ds-plugins/dsh-scheduling-contracts",
+  "name": "@han_05/dsh-scheduling-contracts",
   "version": "0.3.0",
   "description": "Versioned scheduling contracts shared by DSH plugins",
   "repository": {
@@ -31,6 +31,7 @@
   ],
   "scripts": {
     "build": "tsc -b",
+    "prepare": "pnpm run build",
     "prepack": "pnpm run build",
     "test": "vitest run"
   },
